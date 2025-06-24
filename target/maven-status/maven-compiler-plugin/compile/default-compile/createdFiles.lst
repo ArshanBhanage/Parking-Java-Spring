@@ -1,0 +1,6 @@
+com\example\parkinglot\ParkingLotApplication.class
+com\example\parkinglot\model\SlotSize.class
+com\example\parkinglot\service\ParkingLotManager.class
+com\example\parkinglot\controller\ParkingLotController.class
+com\example\parkinglot\model\Slot.class
+com\example\parkinglot\model\Vehicle.class
